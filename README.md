@@ -1,1 +1,1 @@
-This is the open Template for **Deep Learning**
+This is the template for **Deep Learning** project
